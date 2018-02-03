@@ -6,7 +6,9 @@ import java.sql.ResultSet;
 import java.sql.SQLException;
 
 import com.ningmeng.model.User;
-
+/*
+ * mvc Êý¾Ý¿â·ÃÎÊ²ã
+ */
 public class UserDao {
     
     public User login(Connection con,User user) throws SQLException{

@@ -1,5 +1,7 @@
 package com.ningmeng.model;
-
+/*
+ * javabean·´Éä
+ */
 public class User {
 
     private int id;
