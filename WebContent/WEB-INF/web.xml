@@ -12,7 +12,7 @@
   
   <servlet>
       <servlet-name>LoginServlet</servlet-name>
-      <servlet-class>com.ningmeng.web.LoginServlet</servlet-class>
+      <servlet-class>com.webtest.servlet.LoginServlet</servlet-class>
   </servlet>
   <servlet-mapping>
       <servlet-name>LoginServlet</servlet-name>

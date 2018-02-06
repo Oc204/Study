@@ -1,10 +1,12 @@
-package com.ningmeng.model;
+package com.webtest.Bean;
 /*
- * javabean反射
+ * javabean反射，mvc 中的model层
+ * 实现逻辑封装，体现代码功能的独立性
+ * 便捷且更明确地实现数据的传输
  */
 public class User {
 
-    private int id;
+    private int id;//用户序列号
     private String username;
     private String password;
     
